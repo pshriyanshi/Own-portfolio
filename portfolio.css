@@ -11,7 +11,7 @@
     background-color: rgb(183, 176, 176);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     height: 100vh;
-    transition: transform 0.3s ease-in;
+    /*transition: transform 0.3s ease-in;*/
 }
 
 .sidebar nav li {
@@ -184,7 +184,7 @@ p{
     background-color: yellow;
 }
 
-.sidebarGo{
+/*.sidebarGo{
     transform: translate(-443px, 0px);
     position: absolute;
 }
@@ -201,15 +201,15 @@ p{
 .cross{
     margin-left: 185px;
     margin-top: 10px;
-}
+}*/
 @media (max-width: 1315px){
 *{
     
 
    
 }
-.devPic{
+/*.devPic{
     display: none;
 
-}
+}*/
 }
